@@ -1,0 +1,7 @@
+body {
+    font-family: 'Charis SIL', serif !important;
+}
+
+ul li a:hover {
+    color: hsl(5, 85%, 63%) !important;
+}
